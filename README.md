@@ -9,3 +9,5 @@ This repository is used for Git and GitHub collaboration practice.
 
 ## Contributing
 Fork the repo, create a branch, push your changes and open a pull request.
+
+See the Issues tab for open tasks.
